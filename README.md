@@ -50,6 +50,36 @@ A simple FAQ (Frequently Asked Questions) application built using React with Red
 
    • Wraps the app with the Redux `Provider` to enable global state access.
 
+### 📦 How to Run
+This project was created using [Vite](https://vitejs.dev/).
+
+#### Prerequisites
+- Ensure **Node.js** and **npm** are installed on your machine.
+
+#### Steps to Run
+
+1. **Clone the repository**
+
+   `git clone https://github.com/bismah-nasir/redux-faq`
+2. **Navigate to the project directory**
+
+   `cd redux-faq`
+3. **Install dependencies**
+
+   `npm install`
+4. **Start the development server**
+
+   `npm run dev`
+5. Open your browser and go to the URL provided in the terminal (usually `http://localhost:5173/`).
+
+
+### 📄 Project Documentation
+
+You can find the detailed project documentation here:
+
+🔗 [View Full Assignment Report](https://github.com/bismah-nasir/minimal-app-assignment/blob/main/B21110006023%20BISMAH%20NASIR%20MINIMAL%20APP%20MODIFIED.pdf)
+
+
 ### 🚀 Live Demo
 🔗 https://redux-faq.netlify.app/
 
